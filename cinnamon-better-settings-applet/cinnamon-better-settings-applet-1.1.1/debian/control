@@ -1,0 +1,13 @@
+Source: cinnamon-better-settings-applet
+Maintainer: Alan Johnson <alan.wayne.johnson@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 8)
+Homepage: http://cinnamon-spices.linuxmint.com/applets/view/36
+
+Package: cinnamon-better-settings-applet
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, cinnamon (>= 1.6)
+Description: Better Settings applet for Cinnamon
+ A redesigned Cinnamon settings applet.
