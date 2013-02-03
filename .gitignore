@@ -1,0 +1,11 @@
+# Vim temporary files
+.*.swp
+
+# debuild leftovers
+*.debian.tar.gz
+*.deb
+*.build
+*.changes
+*.log
+*.dsc
+files
