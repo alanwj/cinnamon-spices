@@ -1,0 +1,14 @@
+Source: cinnamon-hardware-monitor-applet
+Maintainer: Alan Johnson <alan.wayne.johnson@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 8)
+Homepage: http://cinnamon-spices.linuxmint.com/applets/view/12
+
+Package: cinnamon-hardware-monitor-applet
+Architecture: all
+Depends: ${misc:Depends}, cinnamon (>= 1.6), gir1.2-gtop-2.0 (>= 2.28)
+Description: Hardware Monitor applet for Cinnamon
+ Hardware Monitor is a graphical hardware monitor displaying your realtime CPU
+ and memory load with colored charts.
