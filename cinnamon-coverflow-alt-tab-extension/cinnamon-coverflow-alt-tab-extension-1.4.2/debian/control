@@ -1,0 +1,14 @@
+Source: cinnamon-coverflow-alt-tab-extension
+Maintainer: Alan Johnson <alan.wayne.johnson@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 8)
+Homepage: http://cinnamon-spices.linuxmint.com/extensions/view/3
+
+Package: cinnamon-coverflow-alt-tab-extension
+Architecture: all
+Depends: ${misc:Depends}, cinnamon (>= 1.6)
+Description: Coverflow Alt-Tab extension for Cinnamon
+ A Cinnamon extension that let's you Alt-Tab through your windows in a coverflow
+ manner.
