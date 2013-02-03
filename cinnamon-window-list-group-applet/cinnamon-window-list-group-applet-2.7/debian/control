@@ -1,0 +1,14 @@
+Source: cinnamon-window-list-group-applet
+Maintainer: Alan Johnson <alan.wayne.johnson@gmail.com>
+Section: misc
+Priority: optional
+Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 8)
+Homepage: http://cinnamon-spices.linuxmint.com/applets/view/16
+
+Package: cinnamon-window-list-group-applet
+Architecture: all
+Depends: ${misc:Depends}, cinnamon (>= 1.6), libglib2.0-bin (>= 2.32)
+Description: Window List With Application Grouping
+ A Cinnamon window list applet with live window previews, favorites, and
+ grouping of application windows.

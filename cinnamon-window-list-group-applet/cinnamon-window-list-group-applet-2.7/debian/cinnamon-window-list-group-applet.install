@@ -1,0 +1,7 @@
+applet.js                                         usr/share/cinnamon/applets/WindowListGroup@jake.phy@gmail.com
+convenience.js                                    usr/share/cinnamon/applets/WindowListGroup@jake.phy@gmail.com
+icon.png                                          usr/share/cinnamon/applets/WindowListGroup@jake.phy@gmail.com
+metadata.json                                     usr/share/cinnamon/applets/WindowListGroup@jake.phy@gmail.com
+specialButtons.js                                 usr/share/cinnamon/applets/WindowListGroup@jake.phy@gmail.com
+specialMenus.js                                   usr/share/cinnamon/applets/WindowListGroup@jake.phy@gmail.com
+org.cinnamon.applets.windowListGroup.gschema.xml  usr/share/cinnamon/applets/WindowListGroup@jake.phy@gmail.com/schemas
